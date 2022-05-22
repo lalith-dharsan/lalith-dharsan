@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @lalith-dharsan
+- 👀 I’m interested in data, Block-chain,AI and,cloud
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on anyone of my intrest 
+- 📫 for reach_me :
+-         if linkdin:
+-                  click("https://www.linkedin.com/in/lalith-dharsan-19693922b")
+-         elif instagram:
+-                  click("https://www.instagram.com/invites/contact/?i=qvgupg7wurq3&utm_content=equ83cl")
+-         else:
+-                  pass
+
